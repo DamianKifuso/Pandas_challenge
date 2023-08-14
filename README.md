@@ -1,5 +1,6 @@
 # Pandas_challenge
 Schools Analysis
+
 The City’s school district has two types of schools Independent and Government. The Government schools serve a greater number of students compared to independent schools, though the ‘Per Student Budget’ is high in Government schools compared to independent Schools.
 The Government school’s absence in mean Maths score associated to reading, has resulted in a lesser % Passing in Maths. As a result, their overall Passing % becomes much lesser than the aggregate Passing % of standard.
 On the other hand, independent schools uphold a good mean score in both Maths and Reading, hence leading to a much higher aggregate Passing % compared to the standard %
